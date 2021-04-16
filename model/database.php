@@ -1,9 +1,9 @@
 <?php 
 
     class Database {
-        private static $dsn = 'mysql:host=hwr4wkxs079mtb19.cbetxkdyhwsb.us-east-1.rds.amazonaws.com;dbname=vifmi5ekcwb44w9l';
-        private static $username = 'm2hdc19rf2wturb7';
-        private static $password = 'rkxk5ubohcqjuvfz';
+        private static $dsn = 'mysql:host=grp6m5lz95d9exiz.cbetxkdyhwsb.us-east-1.rds.amazonaws.com;dbname=jg23pfxi0twrqd5x';
+        private static $username = 'msc7048torg6an2y';
+        private static $password = 'sv166613twfsig31';
         private static $db;
 
         private function __construct() {}
